@@ -33,5 +33,5 @@ cd OTP-Based-Chat-System
 
 ## Contributors
 👨‍💻 Guddu Kumar  
-👨‍💻 Dharmendra Kumar   🔗 [https://github.com/Mrdksharma].(https://github.com/Mrdksharma)
-👨‍💻 Md Ashif  🔗  [https://github.com/Asif12asfy.app](https://github.com/Asif12asfy.app)  
+👨‍💻 Dharmendra Kumar 🔗 [https://github.com/Mrdksharma](https://github.com/Mrdksharma)
+👨‍💻 Md Ashif  🔗  [https://github.com/Asif12as.app](https://github.com/Asif12as.app)  
