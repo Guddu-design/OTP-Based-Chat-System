@@ -27,10 +27,11 @@ It ensures privacy and security while maintaining a seamless **real-time** exper
 ## 🚀 Getting Started  
 
 ### 📥 Clone the Repository  
-```bash
+##
 git clone https://github.com/Guddu-design/OTP-Based-Chat-System.git
 cd OTP-Based-Chat-System
 
+## Contributors
 👨‍💻 Guddu Kumar  
-👨‍💻 Dharmendra Kumar  [https://github.com/Mrdksharma].(https://github.com/Mrdksharma)
-👨‍💻 Md Ashif  [https://github.com/Asif12as].(https://github.com/Asif12as)
+👨‍💻 Dharmendra Kumar   🔗 [https://github.com/Mrdksharma].(https://github.com/Mrdksharma)
+👨‍💻 Md Ashif  🔗  [https://github.com/Asif12asfy.app](https://github.com/Asif12asfy.app)  
